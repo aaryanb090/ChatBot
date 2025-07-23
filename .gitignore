@@ -1,0 +1,44 @@
+/backend/.venv/
+/backend/.venv/ 
+*.ipynb
+*.ipynb_checkpoints
+backend/.env
+frontend/node_modules/
+frontend/dist/
+.env 
+
+
+# Python
+backend/.venv/
+backend/__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+
+# Node/Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.cache/
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# ignore the IDE/notebook and secrets
+.env
+*.ipynb
+*.ipynb_checkpoints
+
+# Python venv
+backend/.venv/
+
+# Node modules / build
+frontend/node_modules/
+frontend/dist/

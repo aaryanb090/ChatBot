@@ -1,0 +1,307 @@
+What is the difference between Bridge and Bluetooth?
+When it comes to controlling Philips Hue lights, there are two options: using a Bridge or Bluetooth.  
+
+With a Bridge, you get Out of home control, which means you can control your lights from anywhere in the world with an internet connection. You can also add up to 50 lights and accessories, add outdoor lighting, and create automations.  
+
+With Bluetooth, you can control up to 10 lights in a single room. You can create a single automation (called a routine), but it will only occur once.  
+
+Even if you have Philips Hue bulbs or lights that you’re using with Bluetooth, you can always switch to a Bridge — they’ll all still work. 
+
+
+How do I control Philips Hue lights?
+You can control Philips Hue lights multiple ways — that's one of the reasons they're so smart! 
+
+The Philips Hue app: You can set up and control your lights in the app, where you can turn them on and off, dim or brighten the room, group lights into Rooms and Zones, set up automations, and more.
+
+Voice: You can also control your lights with your voice when you connect Amazon Alexa, Google Assistant, or Apple Home & Siri. Go to Settings > Voice assistants to set it up.
+
+Smart accessories: Adding Philips Hue smart accessories, such as the Tap dial switch or the smart button, to your setup gives you even more control over your lights. Cycle through your favorite scenes, use each accessory as a remote control from anywhere in the house, or even get the best light for each time of the day with the press of a button — get as creative as you like! 
+
+
+Why are my lights unreachable?
+Your light may have been physically switched off (e.g., by using a wall switch), or it is out of the operating range of the system. If you are still having issues, please contact Support.
+
+
+How do I connect a smart light to the Philips Hue Bridge?
+To add a device to your Bridge, make sure your Hue app is updated to the latest version and follow these steps:
+
+1. Gather the devcies you want to add and find their QR codes, located on the devices themselves. 
+
+2. In the Home tab, tap the three-dots (…) icon. 
+
+3. Tap Add devices and follow the on-screen instructions to scan the QR codes and add the devices to your Bridge. 
+
+
+
+
+
+Can I use different types of standalone Hue fixtures together?
+Yes. All Philips Hue light fixtures are fully compatible with the Hue ecosystem. Some can be used as standalone light fixtures, while others require a Hue Bridge in order to operate. However, all Hue products can connect to a Bridge for advanced control via the Hue app.
+
+
+
+How can I tell if a bulb is the new "richer color" version?
+Newer versions of Philips Hue bulbs feature “richer colors,” meaning that the bulbs have deeper greens and blues to more consistently match the colors of the Philips Hue Go and lightstrip. You can identify all richer color bulbs by their white base, with the exception of the BR30 bulb. The older BR30 bulb features a gray rim, while the richer color version does not.
+
+When purchasing new products, you can identify richer color bulbs by their packaging: the packaging features a round green label in the top right corner with the text “richer colors.”
+
+
+
+Why do certain light fixtures come with a Philips Hue dimmer switch?
+Certain light fixtures come with a dimmer switch to make it easier for users without a Bridge to control their lights.
+
+
+Why do my older generation products have different colors than my newer products?
+Newer products have optimized color capabilities. As a result, older bulbs and lights do not have the same color richness as the new generation of Hue products. You may notice this most when your lights are set to blue or green.
+
+
+How can I tell if a Philips Hue product is Bluetooth compatible?
+Bluetooth-compatible Philips Hue lights have a Bluetooth logo on both the product itself and the package it comes in.
+
+
+What do I need to use Philips Hue Bluetooth?
+To control Philips Hue lights with Bluetooth, you'll need the Philips Hue app and a mobile device, such as a smartphone or tablet. Add a Bridge to your setup to unlock the full suite of smart lighting features.
+
+
+What is the Reference Control Setting of a bulb, and how can I find it?
+The Reference Control Setting is used to verify compliance of the Philips Hue light sources with the European Ecodesign Regulation (EU) 2019/2020. 
+
+You can find the Reference Control Setting for a bulb on its product page or in the Product Information Sheet. 
+
+The Reference Control Setting can be obtained for: 
+
+4000 K: via Hue app scene “Cool bright” 
+
+6400 K: via Hue app scene “Energize” 
+
+
+
+How should I dispose of a product?
+Your product is designed and manufactured with high-quality materials and components, which can be recycled and reused. 
+
+Learn your local waste disposal requirements, as well as the separation and collection system for electrical and electronic products and packaging. Please act according to your local rules and do not dispose of your old product and packaging with your normal household waste. 
+
+Batteries should be disposed of separately from the municipal waste stream via designated collection facilities. When disposing of a product that contains non-user replaceable batteries, the non-user replaceable batteries shall be removed by a professional. 
+
+
+Do I need a Bridge to use Perifo track lighting?
+You don't need a Bridge to control Perifo. You can control Perifo track lighting with Bluetooth, or add a Bridge to unlock the full suite of smart lighting features.
+
+
+
+Which lights work with Perifo track lighting?
+Perifo track lighting only works with Perifo lights.
+
+
+Where can I find more information about Perifo track lighting?
+Visit the [About Perifo] track lighting page to learn more about Perifo. Check out our [Guide to Perifo] track lighting to learn more about the different parts of Perifo, installation, and more..
+
+
+How do I connect my Perifo track lighting to my Philips Hue smart lighting system?
+Perifo lights work like all other Philips Hue lights, meaning you can add them right in the Hue app. You can find information on connecting Perifo to your Philips Hue system on the [How to connect] page for lamps. 
+
+
+Where can I find installation and connection instructions for Perifo track lighting?
+For information on installation, read the Perifo user manual. To learn how to connect Perifo to your smart lighting system, check out the [How to connect page] for lamps.
+
+
+Can I create a Perifo setup that has multiple power supply units so that I can power more than 100 W of lights?
+Perifo was designed to work with a single power supply unit. Using more than one PSU is not supported. If you want to create a setup of more than 100 W (or 90 W in the United States and Canada), use two separate setups placed next to, but not connected to, each other.
+
+Can I switch the connectors I have on rails that I've already installed with the flexible connector?
+Yes! Before you start, turn the electricity powering the fixture off. Remove the rail cover, and loosen the screws so that the rail can move around slightly. Place the connector into place, and tighten the screws on the rail. Place the connector into the second rail, and install it as shown in the manual. 
+
+
+There's a gap when I place the cover onto my T connector. What should I do?
+If there is a gap, gently press the cable into extra space in the connector's housing to shorten its length and try again.
+
+
+How to I rotate the Perifo cylinder spotlight?
+Perifo cylinder spotlights can be rotated 350 degrees to shine light where you need it. It’s simple to do: hold the light and turn it clockwise or counterclockwise. Note that the spotlight does not fully rotate 360 degrees, as there is a stopping point at the base of the light. 
+
+
+How does Perifo track lighting connect to power?
+It depends on the power supply unit you choose. The 1-point and 2-point power supply units are wired into your home's electricity via an electrical box on the ceiling. A 1-point power supply unit with a plug is meant for wall setups, and it can be plugged into a standard outlet. 
+
+
+
+Can I mount the ceiling power supply unit to the wall or the wall power supply unit to the ceiling?
+Yes. Though the power supply units were designed for either the wall or ceiling, if you have an electrical box on your wall, you can use the ceiling power supply unit. Conversely, if you have a wall outlet on your ceiling, you can use the wall power supply unit.
+
+
+
+How do I know how many rails and connectors I need?
+We recommend looking at our How-to guide before buying any components. This way, you can see which layout you like and get a list of the connectors and rails you need. If you want to go bigger than the example, you can — just add longer (or more!) rails and more connectors.
+
+
+Can I control panels with Bluetooth?
+Yes. All new Philips Hue lights can be controlled with Bluetooth or a Bridge.
+
+
+Are accessories included with Philips Hue ceiling panels?
+Accessories are sold separately from Philips Hue ceiling panels.
+
+
+What panel light should I choose?
+It depends! We have a wide variety of LED panels, with different sizes, shapes, colors, light color, and usage area.  
+
+For beautiful light effects and sleek design, Datura is a good choice. It offers two independently controllable light sources, the main light and its backlight. Because of this — along with its sleek, slim aluminum frame — it’s both a beautiful decorative ceiling lamp and functional overhead light.  
+
+For a similarly sleek design in more shapes and sizes, choose Aurelle (color light) or Surimu (warm-to-cool white light). These panel lights also feature a sleek aluminum frame.
+
+For ceiling panels in a wide variety of shapes and sizes, Tento is a good option. They’re available in a wide variety of shapes and sizes, as well as in White, White ambiance, or White and color ambiance. Tento features a synthetic frame in black or white.
+
+
+What is the difference between the Philips Hue panel lights?
+Datura features two individually controllable light sources: the main light and the backlight. It also features a very slim aluminum frame, which gives the illusion that the panel is a floating light on the ceiling. 
+
+Aurelle and Surimu are very similar ceiling panels, though they have one light source at the front and no backlight. Both feature aluminum frames, and the former is White ambiance and the latter White and color ambiance. 
+
+Tento also features one light source, though due to light leakage there is a very subtle backlight. It features a synthetic frame. 
+
+
+How bright is the backlight on the panel lights?
+It depends on the panel light. Datura has an individually controllable backlight, so it offers significantly more light than the other panels. Tento’s backlight is due to light leakage from the main light, so it is not as bright as Datura. Aurelle and Surimu do not feature a backlight. 
+
+
+Can the backlight be controlled separately from the main light on both Datura and Tento?
+With Datura, you can control both the backlight and the main light separately. Tento’s backlight is due to light leakage and can’t be controlled separately.
+
+
+
+What is the difference between the types of Philips Hue lightstrip?
+There are five types of Philips Hue lightstrips:  
+
+Philips Hue lightstrip Plus produces one color at a time. It comes as a 2-meter length with its own power supply. It can be cut to size or extended up to 10 meters with 1-meter extensions. Ideal for accent light and highlighting architectural features of unique sizes. 
+Philips Hue Solo lightstrip produces one color at a time. It comes in 3-meter, 5-meter, and 10-meter lengths with its own power supply. It can be cut to size, but not extended. Ideal for covering longer surfaces, such as along hallways, ceilings, or stairs. 
+Philips Hue ambiance gradient lightstrip produces multiple colors of light at the same time. It comes as a 2-meter length with power supply. It can be cut to size or extended up to 10 m with 1-meter extensions. Because you can set a scene with multiple colors on a single fixture, it’s ideal for decorative accents. 
+Philips Hue Play gradient lightstrip for TV produces multiple colors of light at the same time. Designed to be mounted behind a TV, it comes in three lengths, based on TV size: 55-inch, 65-inch, or 75-inch. 
+Philips Hue Play gradient lightstrip for PC produces multiple colors of light at the same time. Designed to be mounted behind a monitor, it comes in three lengths, based on monitor size: 24–27 inch, 32–34 inch, or three 24–27 inch for triple-monitor setups.  
+
+
+
+Can I extend Philips Hue lightstrips?
+It depends on which lightstrip you have.  
+
+Lightstrip Plus: Yes, up to 10 meters with 1-meter extensions 
+
+Ambiance gradient lightstrip: Yes, up to 10 meters with 1-meter extensions 
+
+Solo lightstrip: No 
+
+Play gradient lightstrip for TV: No 
+
+Play gradient lightstrip for PC: No 
+
+
+
+
+Can I cut Philips Hue lightstrips to size?
+It depends on which lightstrip you have.  
+
+Lightstrip Plus: Yes 
+
+Ambiance gradient lightstrip: Yes 
+
+Solo lightstrip: Yes 
+
+Play gradient lightstrip for TV: No 
+
+Play gradient lightstrip for PC: No 
+
+
+
+
+Can I connect different Philips Hue lightstrip types to each other?
+Because of their internal electronics, all Philips Hue lightstrips that can be extended can only be used with lightstrips of the same type. For example, you can extend lightstrip Plus with another Plus extension, but not with an ambiance gradient lightstrip extension and vice versa. 
+
+If you have older versions of the original lightstrip, they may not be compatible with the current version.  
+
+
+
+
+Which Philips Hue lightstrip should I use behind a TV or monitor?
+Philips Hue Play gradient lightstrips for TV were designed specifically for TV screens. They come in three lengths, based on standard TV sizes: 55-inch, 65-inch, or 75-inch. 
+
+Philips Hue Play gradient lightstrips for TV were designed specifically for TV screens. They come in three lengths, based on standard monitor setups: 24–27 inch, 32–34 inch, or three 24–27 inch for triple-monitor setups. 
+
+
+
+Do I have to use the Play gradient lightstrip only to sync with the screen?
+You don't have to, but the Play gradient lightstrip was specifically designed to sync with the screen it's attached to. If you don't want to use the lightstrip to sync, we recommend the ambiance gradient lightstrip.
+
+
+Which size Play gradient lightstrip do I need?
+For TVs, we have three sizes of Play gradient lightstrips: made for 55”, 65”, or 75” TVs. For monitors, we also have three sizes: made for single 24–27” monitors, made for single 32–34” monitors, and made for 24–27” triple-monitor setups. If you have a different size TV or monitor, we recommend getting a Play gradient lightstrip that is slightly smaller than your TV or monitor. Because the lightstrip is bright, it does not matter if it does not reach the corners on the back of the TV or the monitor.
+
+If you have a TV smaller than 50” or a monitor smaller than 24”, we recommend using Philips Hue Play light bars instead. 
+
+
+
+How should I start when installing the Play gradient lightstrip?
+You can find all the instructions in the Philips Hue app! Add the light to your Philips Hue system first in the app, which will give you step-by-step instructions on the physical installation.  
+
+You can also follow the instructions in the manual or watch the how-to video for TV installation. 
+
+
+How do I add a lightstrip to my existing Philips Hue system?
+To add a device, including lightstrips, to your Bridge, make sure your Hue app is updated to the latest version and follow these steps:
+
+1. Gather the devcies you want to add and find their QR codes, located on the devices themselves. 
+
+2. In the Home tab, tap the three-dots (…) icon. 
+
+3. Tap Add devices and follow the on-screen instructions to scan the QR codes and add the devices to your Bridge.
+
+
+Can the power supply that comes with a Philips Hue lightstrip be used with other Philips Hue lights?
+Yes. The power supply can be used with other lightstrips as well as other Philips Hue lights. 
+
+
+Should I avoid the vents on the back of my monitor when installing the Play gradient lightstrip?
+Yes! Try to place the Play gradient lightstrip’s mounts around the vents as best you can. Blocking the vents could result in your monitor overheating.
+
+
+
+Should I buy a longer lightstrip that is long enough to cover the bottom of my TV or monitor?
+The Play gradient lightstrip was designed to line the sides and top of your screen. If you want even more light behind your screen, you can add a Play gradient light tube or Play light bar at the bottom of your screen. 
+
+
+How do I mount the Play gradient lightstrip when my monitor differs from the sizes listed on the lightstrip’s packaging?
+If your monitor is bigger than 24–27 in or 32–34 in, you can still use the Play gradient lightstrip. The distance between the edge of the monitor and the outside of the mounts should ideally follow the list below, but you can adjust the placement of the mounts so that the lightstrip sits closer to the center of your monitor:
+
+24" monitor: 2.5 cm
+27" monitor:  6.5 cm
+32" monitor: 5 cm
+34" monitor: 6.5 cm
+Three 24" monitors: 4.5 cm
+Three 27" monitors: 7 cm
+
+
+
+Why do I sometimes see a black screen when starting some video content?
+The Play gradient lightstrip isn’t compatible with protected video content (DRM), which causes the screen to go black when streaming certain content.  
+
+
+
+How does cutting or extending a Philips Hue lightstrip affect its lumen output?
+The lightstrip will automatically adjust its lumen output when cut or extended to keep the wattage used consistent. 
+
+
+Support
+Performance
+Why is it taking so long for my hue lights to respond?
+There are multiple ways for your app to control the hue system. The hue API is a RESTful interface, which can be accessed by many languages. In addition, we provide SDKs for IOS, OSX, Java multi-platform and Android. Third party developers have created a number of other tools and SDKs for different languages. Refer to hue API documentation, IOS and OSX SDK, Java multi-platform and Android SDK, list of third party SDKs and tools
+
+Why are only some of my lights responding to my app?
+When you set the light state, and update color, brightness etc., the light will not respond immediately because by default there is a transition time to the new state of 400 milliseconds. If you want the light to respond quickly to a state change, set the transition time in the light state to zero milliseconds.
+
+Why is the bridge response so slow?
+All the lights have to be in range. If you can control them from the hue app then you’re fine to play with them via the developer interface. Remember all lights act as a signal repeater, so if you want more range, put a light in between.
+
+How many commands you can send per second?
+You can send commands to the lights too fast. If you stay roughly around 10 commands per second to the /lights resource as maximum you should be fine. For /groups commands you should keep to a maximum of 1 per second.
+
+Color and State
+How do I set color?
+For more info on setting color, see our section on Color Theory.
